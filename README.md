@@ -19,7 +19,7 @@
 
 ## About
 
-**AI Automation Engineer** based in Dubai. I design and deploy production workflow
+**AI Automation Engineer and Software Developer** based in Dubai. I design and deploy production workflow
 automations, AI agents and API integrations — and build the internal business systems
 they run on, end to end and mostly on my own.
 
