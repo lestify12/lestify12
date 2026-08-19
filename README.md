@@ -19,7 +19,7 @@
 
 ## About
 
-**Software Developer and AI Automation Engineer** based in Dubai. I design and deploy production workflow
+**AI Automation Engineer & Software Developer** based in Dubai. I design and deploy production workflow
 automations, AI agents and API integrations — and build the internal business systems
 they run on, end to end and mostly on my own.
 
@@ -66,16 +66,30 @@ they run on, end to end and mostly on my own.
 > Repositories for these are private. Screens, write-ups and the full case studies
 > are on **[kjtabinas.online](https://kjtabinas.online)**.
 
-## GitHub
+## Currently
+
+- Building **Maal** — offline-first budget tracking built around how money moves in the Gulf
+- Keeping the property management and HRIS platforms running in production
+- Automating operations end to end with Claude Code, MCP and n8n
+- Open to conversations about automation, internal tooling and mobile work in the UAE
+
+## Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kjtabinas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/kjtabinas">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:krystlertabinas1999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://kjtabinas.online">
+    <img src="https://img.shields.io/badge/Portfolio-0A2C63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lestify12&show_icons=true&hide_border=true&title_color=0A2C63&icon_color=C9A227&text_color=444444&bg_color=00000000">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestify12&layout=compact&hide_border=true&title_color=0A2C63&text_color=444444&bg_color=00000000">
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Built things that shipped. Happy to talk about any of them —
-  <a href="mailto:krystlertabinas1999@gmail.com">get in touch</a>.</sub>
+  <sub>Built things that shipped. Happy to talk about any of them.</sub>
 </div>
